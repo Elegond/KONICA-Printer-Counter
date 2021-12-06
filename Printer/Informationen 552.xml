@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="system.xsl" type="text/xsl"?>
+<MFP><ScreenName>system_counter</ScreenName><Common><SelNo>Auto</SelNo>
+<LangNo>De</LangNo>
+<AuthUserName>Public</AuthUserName>
+<LoginMode>PublicUser</LoginMode><LoginName></LoginName><EnableWebConnection>true</EnableWebConnection><PcmSsId>2</PcmSsId>
+<Simulator>false</Simulator>
+<CertInstalled>false</CertInstalled>
+<GreekEnable>true</GreekEnable><HebrewEnable>true</HebrewEnable><EncryptEnable>true</EncryptEnable><JpegEnable>false</JpegEnable><KeyVndBoxEnable>Off</KeyVndBoxEnable><DN39B1>Off</DN39B1><DN30B1>Off</DN30B1><DN27B8>Off</DN27B8><DN38B8>Off</DN38B8><DN35B3>Off</DN35B3><DN35B4>Off</DN35B4><DN38B2>Off</DN38B2><DN32B7>Off</DN32B7><MyAddressEnable>Off</MyAddressEnable>
+<KeyDeviceList><ArraySize>6</ArraySize><KeyDevice><Type>KeyCounter</Type><Status>False</Status><Installed>False</Installed></KeyDevice><KeyDevice><Type>ExternalManagementDevice</Type><Status>False</Status><Installed>False</Installed></KeyDevice><KeyDevice><Type>Vendor</Type><Status>False</Status><Installed>False</Installed></KeyDevice><KeyDevice><Type>ExternalManagementDeviceKM</Type><Status>False</Status><Installed>False</Installed></KeyDevice><KeyDevice><Type>VendorKM</Type><Status>False</Status><Installed>False</Installed></KeyDevice><KeyDevice><Type>PageAccess</Type><Installed>False</Installed></KeyDevice></KeyDeviceList><Info>
+<MarketArea>Europe</MarketArea><Fls>Fls1</Fls><Type8K>8K_3</Type8K><Type16K>16K_3</Type16K></Info>
+<PswcSetting>
+<AdminViewMode>Icon</AdminViewMode>
+</PswcSetting>
+<FuncVer>3</FuncVer>
+<MonoFlag>True</MonoFlag><Service><Setting><AuthSetting><AuthMode><ListOn>false</ListOn>
+<PublicUser>true</PublicUser>
+<SendAddressLimit>Off</SendAddressLimit>
+<AuthType>None</AuthType>
+</AuthMode><TrackMode>
+<TrackType>None</TrackType>
+</TrackMode><CommonMode>
+<NoAuthPrintOn>false</NoAuthPrintOn>
+</CommonMode>
+<UserAndTrack>
+<ColorManage></ColorManage>
+</UserAndTrack>
+</AuthSetting>
+<General><KeyMode>None</KeyMode>
+</General>
+<SystemConnection><PrefixSuffix>Off</PrefixSuffix><MobilePrint>On</MobilePrint><ConnectApplication><MyPanelConnect>On</MyPanelConnect><MySpoolConnect>On</MySpoolConnect></ConnectApplication></SystemConnection>
+</Setting>
+</Service>
+<System><ProductName>bizhub 552</ProductName><ProductID>1.3.6.1.4.1.18334.1.1.1.2.1.72.2.1</ProductID><DeviceID></DeviceID><Oem>false</Oem><SerialNumber>---------</SerialNumber><ExternalIfMode>None</ExternalIfMode><ControllerInfoList><ArraySize>1</ArraySize><ControllerInfo><Type>Printer</Type><Name>KONICA MINOLTA bizhub 552</Name><Version>A2WU0Y0-3000-G00-19</Version></ControllerInfo></ControllerInfoList><SupportFunction><Copy>true</Copy><Print>true</Print><Scan>true</Scan><Fax>false</Fax><Fax2>false</Fax2><SipAdapter>false</SipAdapter><Ifax>false</Ifax><IpAddressFax>Off</IpAddressFax><UsbHostBoard>On</UsbHostBoard><Dsc>Off</Dsc><Dsc2>Off</Dsc2><Bluetooth>Off</Bluetooth><DualScan>Off</DualScan><Sip>false</Sip><IPAddressFax>false</IPAddressFax><FaxBoard>false</FaxBoard><FaxBoard2>false</FaxBoard2></SupportFunction><GeneralContact><SiteName>KONICA MINOLTA Customer Support</SiteName><Info></Info><ProductHelpUrl>http://pagescope.com</ProductHelpUrl><CorpUrl>http://konicaminolta.com</CorpUrl><SupplyInfo></SupplyInfo><PhoneNumber></PhoneNumber><EmailAddress></EmailAddress><UtilityLink></UtilityLink><OnlineHelpUrl>http://www.pagescope.com/download/webconnection/onlinehelp/552/help.html</OnlineHelpUrl><DriverUrl></DriverUrl></GeneralContact><UserContact><Contact></Contact><Name></Name><Location></Location><InternalNumber></InternalNumber></UserContact><Time><Year>2017</Year><Month>11</Month><Day>9</Day><Hour>10</Hour><Minute>17</Minute><Second>23</Second><TimeZone2><GmtDirection>East</GmtDirection><Hour>1</Hour><Minute>0</Minute></TimeZone2><TimeZone>East_1_00</TimeZone></Time><ExternalIfMode2>None</ExternalIfMode2><FunctionStatus><FunctionCode>0000000000000000000000000000000000000000000000000000000000000000</FunctionCode><WaitReboot>0000000000000000000000000000000000000000000000000000000000000000</WaitReboot><FunctionCodeReverse>0000000000000000000000000000000000000000000000000000000000000000</FunctionCodeReverse></FunctionStatus>
+<Oem2>false</Oem2></System>
+<DeviceInfo><Option><Hdd><Installed>true</Installed><Capacity>238446</Capacity></Hdd><Duplex><Installed>true</Installed><Type>Cycle</Type></Duplex><Adf><Installed>true</Installed><Type>Duplex</Type></Adf></Option>
+</DeviceInfo>
+<DeviceStatus><ScanStatus>210036</ScanStatus>
+<PrintStatus>110036</PrintStatus>
+<Processing>0</Processing>
+<JamCode>:</JamCode>
+<DisplayJamCode>Off</DisplayJamCode></DeviceStatus>
+</Common>
+<Count><UserCounterInfo><TotalCounterList><ArraySize>5</ArraySize><TotalCounter><Type>Total</Type><Count>310347</Count></TotalCounter><TotalCounter><Type>DuplexTotal</Type><Count>84782</Count></TotalCounter><TotalCounter><Type>Document</Type><Count>310295</Count></TotalCounter><TotalCounter><Type>Paper</Type><Count>223339</Count></TotalCounter><TotalCounter><Type>TotalLarge</Type><Count>2211</Count></TotalCounter></TotalCounterList><CopyCounterList><ArraySize>2</ArraySize><CopyCounter><Type>BwTotal</Type><Count>124231</Count></CopyCounter><CopyCounter><Type>BwLarge</Type><Count>2102</Count></CopyCounter></CopyCounterList><PrintCounterList><ArraySize>2</ArraySize><PrintCounter><Type>BwTotal</Type><Count>186116</Count></PrintCounter><PrintCounter><Type>BwLarge</Type><Count>109</Count></PrintCounter></PrintCounterList><ScanFaxCounterList><ArraySize>7</ArraySize><ScanFaxCounter><Type>DocumentReadTotal</Type><Count>5960</Count></ScanFaxCounter><ScanFaxCounter><Type>DocumentReadLarge</Type><Count>1</Count></ScanFaxCounter><ScanFaxCounter><Type>FaxReceive</Type><Count>0</Count></ScanFaxCounter><ScanFaxCounter><Type>FaxSend</Type><Count>0</Count></ScanFaxCounter><ScanFaxCounter><Type>FaxPrintTotal</Type><Count>0</Count></ScanFaxCounter><ScanFaxCounter><Type>ScanPrintBwTotal</Type><Count>0</Count></ScanFaxCounter><ScanFaxCounter><Type>ScanPrintBwLarge</Type><Count>0</Count></ScanFaxCounter></ScanFaxCounterList></UserCounterInfo>
+</Count>
+</MFP>

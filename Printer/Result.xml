@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="autherror.xsl" type="text/xsl"?>
+<MFP>
+<Function>err</Function>
+<LangNo>De</LangNo>
+<Message>
+<Item Code="Err_2">ReloginAttempt</Item>
+</Message>
+<Redirect>/wcd/index.html</Redirect>
+<MsgVoid>false</MsgVoid></MFP>
